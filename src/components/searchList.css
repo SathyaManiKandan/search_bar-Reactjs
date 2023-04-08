@@ -1,0 +1,7 @@
+.list-container {
+  background-color: white;
+  margin-top: 0.5rem;
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 0 8px gray;
+}
